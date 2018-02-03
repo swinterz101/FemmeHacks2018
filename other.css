@@ -1,0 +1,33 @@
+body{
+
+	background-image: url("https://sumedh.files.wordpress.com/2012/10/city_day.png");
+	background-size: fill;
+}
+
+button{
+	height: 180px;
+	width: 240px;
+	margin-top: 100px;
+	margin-left: 130px;
+	font-size: 40px;
+	background-color:#ffffff;
+	font-family: Tahoma;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border: solid 1px #ffffff;
+	border-radius: 50px;
+	text-transform: lowercase;
+ }
+a {
+	color:  #99c2ff;
+
+}
+
+#bob {
+margin-top: 200px;
+position: relative;
+width: 100px;
+height: 100px;
+        }
+
+
