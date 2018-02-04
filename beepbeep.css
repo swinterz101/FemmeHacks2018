@@ -1,16 +1,17 @@
 body { 
-	background-image: url("http://i.imgur.com/6q7cXaP.png");
+	background-image: url("https://forum.unity.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2F6q7cXaP.png&hash=529704672c63c69c8ad88279b43eae1a");
 	background-size: cover;
-	height: 200%;
-	width: 100%;
+	background-color: #333333;
+	background-repeat: no-repeat;
+	
 }
 
 button{
-	height: 220px;
-	width: 320px;
-	margin-top: 20px;
-	margin-left: 150px;
-	font-size: 50px;
+	height: 190px;
+	width: 220px;
+	margin-top: 50px;
+	margin-left: 230px;
+	font-size: 45px;
 	background-color:#ffffff;
 	font-family: Tahoma;
 	-moz-border-radius: 50px;
@@ -28,7 +29,8 @@ a {
 
 }
 #dogs{
-	margin-left: 280px;
-	margin-top: 100px;
+	margin-left: 300px;
+	margin-top: 80px;
+
 
 }
