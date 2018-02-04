@@ -10,7 +10,7 @@ button{
 	height: 180px;
 	width: 240px;
 	margin-top: 100px;
-	margin-left: 120px;
+	margin-left: 150px;
 	font-size: 40px;
 	background-color:#ffffff;
 	font-family: Tahoma;
@@ -27,7 +27,6 @@ a {
 
 #bob{
 margin-top: 200px;
-margin-left: 1px;
 position: relative;
 width: 300px;
 height: 300px;
